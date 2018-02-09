@@ -12,3 +12,5 @@ The installation directory is /usr/local/Cellar/activemq/x.x.x/
 http://127.0.0.1:8161/admin/ 
 
 login/pass: admin/admin
+
+Inspired from https://github.com/tuhrig/Review_System_Demo

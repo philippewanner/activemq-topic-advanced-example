@@ -1,4 +1,4 @@
-package io.hotkey.activemqexample.domain;
+package io.hotkey.activemqexample.domain.model;
 
 import lombok.AccessLevel;
 import lombok.Builder;
